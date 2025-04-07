@@ -38,8 +38,7 @@
 
 #### 🔗 View the Project in Google Sheets (Read-only)
 
-Click here to view the Google Sheets file:  
-https://docs.google.com/spreadsheets/d/1c5HUak30KB8siQP2t2z8Tod5HEBMeds9pzkudclZA0g/edit?usp=sharing 
+[Click here to view the Google Sheets file (read-only)]((https://docs.google.com/spreadsheets/d/1c5HUak30KB8siQP2t2z8Tod5HEBMeds9pzkudclZA0g/edit?usp=sharing))
 
 ## 🗂️ Data Source
 
