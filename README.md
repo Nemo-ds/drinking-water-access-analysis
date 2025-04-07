@@ -33,7 +33,7 @@
 
 ## 📌 Files
 
-- Final project summary [PDF]
+- Project summary [PDF]
 - Visualisations
 
 #### 🔗 View the Project in Google Sheets (Read-only)
