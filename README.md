@@ -26,8 +26,9 @@
 ### 📊 Example Visualization
 
 <p align="center">
-  <img src="visualisations/Evolution of the Share of Population Without Acceptable Drinking Water Services (2012–2022)__.png" width="600"/>
+  <img src="visualisations/unacceptable_water_access.png" width="600"/>
 </p>
+
 
 ## 📌 Files
 
