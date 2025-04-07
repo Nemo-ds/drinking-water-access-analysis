@@ -23,10 +23,11 @@
 - Population without acceptable services (limited + unimproved + surface water)
 - Conditional formatting by service level
 
+
 ### 📊 Example Visualization
 
 <p align="center">
-  <img src="visualisations/unacceptable_water_access.png" width="600"/>
+  <img src="https://github.com/Nemo-ds/drinking-water-access-analysis/blob/main/unacceptable_water_access.png?raw=true" width="600"/>
 </p>
 
 
