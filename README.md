@@ -27,7 +27,7 @@
 ## 📌 Files
 
 - Final project summary [PDF]
-- Charts and screenshots
+- Visualisations
 
 #### 🔗 View the Project in Google Sheets (Read-only)
 
