@@ -41,6 +41,12 @@
 Click here to view the Google Sheets file:  
 https://docs.google.com/spreadsheets/d/1c5HUak30KB8siQP2t2z8Tod5HEBMeds9pzkudclZA0g/edit?usp=sharing 
 
+## 🗂️ Data Source
+
+- The dataset used in this project is available on the official WHO/UNICEF Joint Monitoring Programme (JMP) platform:  
+  🔗 [WASH Data Portal – Household Data Table](https://washdata.org/data/household#!/table?geo0=region&geo1=sdg)
+
+
 ## 📢 Highlights
 
 - Sub-Saharan Africa remains the most affected region, with large rural-urban disparities.
