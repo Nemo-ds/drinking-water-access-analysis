@@ -27,8 +27,11 @@
 ## 📌 Files
 
 - Final project summary [PDF]
-- Google Sheets analysis [XLSX]
 - Charts and screenshots
+
+#### 🔗 View the Project in Google Sheets (Read-only)
+
+Click here to view the Google Sheets file : https://docs.google.com/spreadsheets/d/1c5HUak30KB8siQP2t2z8Tod5HEBMeds9pzkudclZA0g/edit?usp=sharing 
 
 ## 📢 Highlights
 
